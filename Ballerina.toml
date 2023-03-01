@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  export = ["greetingservice0301"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/RestApi","Category/Service","Internal/http"]
+  name = "greetingservice0301"
+  org = "vajirajayasrimal"
+  version = "3.1.0"
+
